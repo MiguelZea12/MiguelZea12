@@ -13,8 +13,8 @@ Additionally, during my studies I have become certified as a Scrum Master in Pla
 - Heladeria Delicious.
 
 # Social Media.
-- [linkedin]: https://www.linkedin.com/in/miguel-zea-39828b252/
-- [Instagram]: https://www.instagram.com/alejandro__zea/
+- [Instagram](https://www.instagram.com/alejandro__zea/)
+- [linkedin]( https://www.linkedin.com/in/miguel-zea-39828b252/)
 <!--
 **MiguelZea12/MiguelZea12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
